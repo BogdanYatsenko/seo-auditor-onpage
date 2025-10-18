@@ -1,6 +1,6 @@
 # Telegram CRM Bot
 
-A clean, production-ready **Telegram CRM Bot** that collects leads, writes them to **PostgreSQL**, and sends instant **Telegram notifications** to a manager. Built with **Python**, **Flask**, **SQLAlchemy**, and **aiogram**.
+**Telegram CRM Bot** that collects leads, writes them to **PostgreSQL**, and sends instant **Telegram notifications** to a manager. Built with **Python**, **Flask**, **SQLAlchemy**, and **aiogram**.
 
 ## What it does
 - `/start` — greets the user
@@ -83,3 +83,5 @@ telegram-crm-bot/
 
 ## License
 MIT © 2025 Bogdan Yatsenko
+
+📦 About the migration This repository was migrated as part of my Portfolio Refresh. Originally developed locally; during migration I added README, .env.example, Docker/CI, and minor improvements.
